@@ -1,4 +1,4 @@
-Elbette, işte verdiğiniz kod örneği için bir README:
+
 
 ```markdown
 # Poke Filter Uygulaması
@@ -38,7 +38,6 @@ Bu uygulama üzerinden, React state yönetimi, bileşenler arası iletişim, tem
 - `CardItem` bileşeni, her bir Pokémon'u göstermek için kullanılır.
 - Kullanıcı, Pokémon adını yazdıkça eşleşen sonuçları görüntüler.
 
-Bu uygulama, React state yönetimi, bileşenler arası iletişim ve temel filtreleme yeteneklerini anlamak için ideal bir öğrenme kaynağıdır.
 
 ```
 
